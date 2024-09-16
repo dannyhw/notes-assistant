@@ -1,0 +1,11 @@
+{
+  "name": "notes-assistant",
+  "version": "0.0.1",
+  "workspaces": [
+    "api",
+    "app"
+  ],
+  "dependencies": {
+    "bun": "*"
+  }
+}
